@@ -70,5 +70,3 @@ axis(1, at=raw_power_data_reduced$DateTime[1]+dhours(c(0,24,48)), labels=c("Thu"
 #Export plot to file
 dev.copy(png, file="plot3.png") #default heightxwidth is 480x480 pixels
 dev.off() #Close PNG device
-
-#strptime(paste(raw_power_data_reduced$Date,raw_power_data_reduced$Time), format = "%d/%m/%Y %H:%M:%S")
