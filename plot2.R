@@ -9,7 +9,6 @@
 
 #load packages
 library(dplyr)
-library(data.table)
 library(lubridate)
 
 # ==============================================================================
