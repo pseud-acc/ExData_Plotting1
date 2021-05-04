@@ -1,7 +1,8 @@
 # ==============================================================================
 # Exploratory Data Analysis - Week 1 - Programming assignment
 # ==============================================================================
-#
+# Script to generate plot3.png showing Energy sub metering in 3 different 
+# sub meters across 2 days in a household
 # ==============================================================================
 # Topic: Household Power Consumption
 # ==============================================================================

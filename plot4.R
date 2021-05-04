@@ -1,9 +1,9 @@
 # ==============================================================================
 # Exploratory Data Analysis - Week 1 - Programming assignment - Plot1.R
 # ==============================================================================
-# Aim: Script to generate plot4.png showing Global Active Power, Voltage,
-#       Energy sub metering and Global reactive power across 2 days in a 
-#       household
+# Script to generate plot4.png showing Global Active Power, Voltage,
+# Energy sub metering and Global reactive power across 2 days in a 
+# household
 # ==============================================================================
 # Topic: Household Power Consumption
 # ==============================================================================

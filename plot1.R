@@ -1,7 +1,8 @@
 # ==============================================================================
 # Exploratory Data Analysis - Week 1 - Programming assignment
 # ==============================================================================
-#
+# Script to generate plot1.png showing histogram of Global Active Power values
+# across 2 days in a household
 # ==============================================================================
 # Topic: Household Power Consumption
 # ==============================================================================
